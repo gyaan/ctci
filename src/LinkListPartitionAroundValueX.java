@@ -1,5 +1,5 @@
 /**
- * Created by lenskart on 21/02/2017.
+ * Created by gyaneshwar on 21/02/2017.
  */
 public class LinkListPartitionAroundValueX {
     private static class Node {

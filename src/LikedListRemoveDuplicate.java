@@ -2,7 +2,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * Created by lenskart on 18/02/2017.
+ * Created by gyaneshwar on 18/02/2017.
  * Learning: don't keep node itself in the map
  * keep previous pointer and current pointer
  * run loop till current is not null

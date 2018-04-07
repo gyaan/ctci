@@ -1,5 +1,5 @@
 /**
- * Created by lenskart on 24/02/2017.
+ * Created by gyaneshwar on 24/02/2017.
  * check if a smaller tree is inside a big tree
  */
 class TreeNode {

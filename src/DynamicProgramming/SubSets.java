@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 /**
- * Created by lenskart on 26/02/2017.
+ * Created by gyaneshwar on 26/02/2017.
  */
 public class SubSets {
     private List<String> subSets = new ArrayList<>();

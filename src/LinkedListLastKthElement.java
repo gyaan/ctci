@@ -1,5 +1,5 @@
 /**
- * Created by lenskart on 20/02/2017.
+ * Created by gyaneshwar on 20/02/2017.
  */
 public class LinkedListLastKthElement {
 

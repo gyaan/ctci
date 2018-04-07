@@ -1,5 +1,5 @@
 /**
- * Created by lenskart on 22/03/2017.
+ * Created by gyaneshwar on 22/03/2017.
  */
 public class BinaryInversion {
 

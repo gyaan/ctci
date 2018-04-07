@@ -1,7 +1,7 @@
 package DynamicProgramming;
 
 /**
- * Created by lenskart on 26/02/2017.
+ * Created by gyaneshwar on 26/02/2017.
  * 1 2 3 4 12 13 16 18
  */
 public class MagicIndex {

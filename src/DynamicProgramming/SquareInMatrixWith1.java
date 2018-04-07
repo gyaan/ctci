@@ -1,7 +1,7 @@
 package DynamicProgramming;
 
 /**
- * Created by lenskart on 23/03/2017.
+ * Created by gyaneshwar on 23/03/2017.
  */
 public class SquareInMatrixWith1 {
 

@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by lenskart on 26/02/2017.
+ * Created by gyaneshwar on 26/02/2017.
  */
 public class Permutations {
     public List<String> getPermutation(String s) {

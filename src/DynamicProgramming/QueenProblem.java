@@ -1,7 +1,7 @@
 package DynamicProgramming;
 
 /**
- * Created by lenskart on 27/02/2017.
+ * Created by gyaneshwar on 27/02/2017.
  */
 public class QueenProblem {
 
